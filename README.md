@@ -21,7 +21,7 @@ https://play.google.com/store/apps/details?id=edu.ncsu.mobile.traces
 http://youtu.be/796xuZgvIxc
 
 # Link to GitHub:
-https://github.com/enj/traces
+https://github.com/NCSUMobiles/Spring15-traces
 
 # References:
 
