@@ -1,3 +1,5 @@
+![Traces Icon](https://raw.githubusercontent.com/NCSUMobiles/Spring15-traces/master/thumbnail.png)
+
 # Tagline:
 
 "Exploring the surrounding digital footprint"
