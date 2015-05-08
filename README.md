@@ -16,7 +16,7 @@ This application was developed in Android Studio. All of us were new to Android 
 
 We conducted a lightweight end-user evaluation to determine how successful we were in the execution of the app. We made the app live in the Google Play store, posted a questionnaire via Google Forms, and asked friends and family to download it, try it out, and complete the questionnaire. Below are portions of the results that we found were interesting and a few conclusions drawn from the comments and data.
 
-### Interface/Usage:
+##### Interface/Usage:
 
 * Some form of instructions are needed to guide the user through the initial use of the app.
 * Units of measurement for numeric values should be provided.
@@ -25,7 +25,7 @@ We conducted a lightweight end-user evaluation to determine how successful we we
 * 83% of participants were able to find an interesting or humorous tweet during their evaluation
 * Over half of the participants (55.6%) responded that they would use both views if they used the application again, 33.3% responded they'd use the maps view the most, and only 11.1% responded that they'd use the list view the most.
 
-### Demographics/Audience:
+##### Demographics/Audience:
 
 * Daily Twitter users would be much more likely to use the app.
   * Of the 18 users that completed the evaluation, only 5 of them use Twitter daily and 8 of them don't use twitter, at all
