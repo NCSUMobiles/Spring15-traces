@@ -10,7 +10,7 @@ Social media is a major part of today's digital landscape. There is currently no
 
 # How:
 
-This application was developed in Android Studio. All of us were new to Android development at the beginning of this project, however, we really like the way the final product turned out.The backend is written in Go, and runs on Google App Engine.The back-end produces a JSON response from the Twitter API,which the Android app consumes, then displays the results to the user in an easy to interface.
+This application was developed in Android Studio. All of us were new to Android development at the beginning of this project, however, we really like the way the final product turned out.The backend is written in Go, and runs on Google App Engine.The back-end produces a JSON response from the Twitter API,which the Android app consumes, then displays the results to the user in an easy to use interface.
 
 # Future work:
 
