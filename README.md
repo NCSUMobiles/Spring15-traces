@@ -34,7 +34,7 @@ We conducted a lightweight end-user evaluation to determine how successful we we
 * Younger users (ages 18-24) would be more likely to use the app
   * 60% of participants in the 18-24 years old range, compared to 25% of participations in the 24-34 years old range.
   * 20% of participants in the 18-24 years old range and 42% of participations in the 24-34 years old range would not be likely to try the app again.
-* 66.7% of participants gave a strong indication that they would be likely to recommend the app to a friend. No participant responded that they would be unlikely to recommend it to a friend.
+  * 66.7% of participants gave a strong indication that they would be likely to recommend the app to a friend. No participant responded that they would be unlikely to recommend it to a friend.
 
 # Future work:
 
